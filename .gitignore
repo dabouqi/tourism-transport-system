@@ -6,5 +6,7 @@ dist
 database*.sql
 *.md
 !README.md
-drizzle
+drizzle/migrations
+drizzle/meta
+drizzle/db.sqlite
 pnpm-lock.yaml
