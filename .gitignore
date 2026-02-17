@@ -7,3 +7,5 @@ database*.sql
 *.md
 !README.md
 drizzle
+pnpm-lock.yaml
+.npmrc
