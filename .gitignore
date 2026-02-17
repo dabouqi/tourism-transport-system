@@ -6,5 +6,4 @@ dist
 database*.sql
 *.md
 !README.md
-patches
 drizzle
