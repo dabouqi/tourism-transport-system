@@ -1,0 +1,1092 @@
+{
+  "clients": {
+    "json": [
+      {
+        "id": 1050001,
+        "name": "هشام النجار",
+        "type": "individual",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "taxId": "",
+        "contactPerson": "",
+        "totalBalance": "0.00",
+        "totalPaid": "0.00",
+        "totalDue": "0.00",
+        "status": "active",
+        "notes": "",
+        "createdAt": "2026-02-09T21:28:34.000Z",
+        "updatedAt": "2026-02-09T21:28:34.000Z",
+        "totalBookings": 190,
+        "netAmount": 190
+      },
+      {
+        "id": 930001,
+        "name": "سامر كمال  اوبريشن  عن طريق محمد حجازي Desert Horizon",
+        "type": "company",
+        "email": "",
+        "phone": "+962 7 9555 1611",
+        "address": "",
+        "taxId": "",
+        "contactPerson": "سامر كمال  اوبريشن ",
+        "totalBalance": "0.00",
+        "totalPaid": "0.00",
+        "totalDue": "0.00",
+        "status": "active",
+        "notes": "",
+        "createdAt": "2026-02-07T09:18:36.000Z",
+        "updatedAt": "2026-02-07T09:18:36.000Z",
+        "totalBookings": 300,
+        "netAmount": 255
+      },
+      {
+        "id": 900001,
+        "name": "supplier viator com",
+        "type": "individual",
+        "email": "",
+        "phone": "111111111111",
+        "address": "",
+        "taxId": "",
+        "contactPerson": "",
+        "totalBalance": "0.00",
+        "totalPaid": "0.00",
+        "totalDue": "0.00",
+        "status": "active",
+        "notes": "",
+        "createdAt": "2026-02-06T12:00:17.000Z",
+        "updatedAt": "2026-02-06T12:00:17.000Z",
+        "totalBookings": 33.25,
+        "netAmount": 33.25
+      },
+      {
+        "id": 810001,
+        "name": "عمايره تور محمد عقل",
+        "type": "company",
+        "email": "",
+        "phone": "+962 7 7738 8111",
+        "address": "",
+        "taxId": "",
+        "contactPerson": "محمد عقل",
+        "totalBalance": "0.00",
+        "totalPaid": "0.00",
+        "totalDue": "0.00",
+        "status": "active",
+        "notes": "",
+        "createdAt": "2026-02-04T17:47:06.000Z",
+        "updatedAt": "2026-02-04T17:47:06.000Z",
+        "totalBookings": 380,
+        "netAmount": 380
+      },
+      {
+        "id": 780001,
+        "name": "Obeida Namroute عبيده النمروطي",
+        "type": "individual",
+        "email": "",
+        "phone": "+962 7 7740 9690",
+        "address": "",
+        "taxId": "",
+        "contactPerson": "",
+        "totalBalance": "0.00",
+        "totalPaid": "0.00",
+        "totalDue": "0.00",
+        "status": "active",
+        "notes": "",
+        "createdAt": "2026-02-03T21:03:34.000Z",
+        "updatedAt": "2026-02-03T21:03:34.000Z",
+        "totalBookings": 140,
+        "netAmount": 140
+      },
+      {
+        "id": 570001,
+        "name": "عمر الفاعوري ",
+        "type": "individual",
+        "email": "",
+        "phone": "+962 7 9579 9017",
+        "address": "",
+        "taxId": "",
+        "contactPerson": "",
+        "totalBalance": "0.00",
+        "totalPaid": "0.00",
+        "totalDue": "0.00",
+        "status": "active",
+        "notes": "",
+        "createdAt": "2026-01-25T13:59:23.000Z",
+        "updatedAt": "2026-01-25T13:59:23.000Z",
+        "totalBookings": 120,
+        "netAmount": 120
+      },
+      {
+        "id": 540001,
+        "name": "برنامج سياحي",
+        "type": "individual",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "taxId": "",
+        "contactPerson": "",
+        "totalBalance": "0.00",
+        "totalPaid": "0.00",
+        "totalDue": "0.00",
+        "status": "active",
+        "notes": "",
+        "createdAt": "2026-01-23T18:25:22.000Z",
+        "updatedAt": "2026-01-23T18:25:22.000Z",
+        "totalBookings": 0,
+        "netAmount": 0
+      },
+      {
+        "id": 510003,
+        "name": "Talixo Passenger",
+        "type": "individual",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "taxId": "",
+        "contactPerson": "",
+        "totalBalance": "0.00",
+        "totalPaid": "0.00",
+        "totalDue": "0.00",
+        "status": "active",
+        "notes": "",
+        "createdAt": "2026-01-22T15:00:37.000Z",
+        "updatedAt": "2026-01-22T15:00:37.000Z",
+        "totalBookings": 186,
+        "netAmount": 186
+      },
+      {
+        "id": 510002,
+        "name": "Get Transfer",
+        "type": "individual",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "taxId": "",
+        "contactPerson": "",
+        "totalBalance": "0.00",
+        "totalPaid": "0.00",
+        "totalDue": "0.00",
+        "status": "active",
+        "notes": "",
+        "createdAt": "2026-01-22T15:00:18.000Z",
+        "updatedAt": "2026-01-22T15:00:18.000Z",
+        "totalBookings": 0,
+        "netAmount": 0
+      },
+      {
+        "id": 510001,
+        "name": "Transfeero",
+        "type": "individual",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "taxId": "",
+        "contactPerson": "",
+        "totalBalance": "0.00",
+        "totalPaid": "0.00",
+        "totalDue": "0.00",
+        "status": "active",
+        "notes": "",
+        "createdAt": "2026-01-22T14:59:51.000Z",
+        "updatedAt": "2026-01-22T14:59:51.000Z",
+        "totalBookings": 583.13,
+        "netAmount": 583.13
+      },
+      {
+        "id": 480001,
+        "name": "حركات نقديه مجهولة المصدر",
+        "type": "individual",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "taxId": "",
+        "contactPerson": "",
+        "totalBalance": "0.00",
+        "totalPaid": "0.00",
+        "totalDue": "0.00",
+        "status": "active",
+        "notes": "",
+        "createdAt": "2026-01-22T08:45:37.000Z",
+        "updatedAt": "2026-01-22T08:45:37.000Z",
+        "totalBookings": 0,
+        "netAmount": 0
+      }
+    ],
+    "meta": {
+      "values": {
+        "0.createdAt": [
+          "Date"
+        ],
+        "0.updatedAt": [
+          "Date"
+        ],
+        "1.createdAt": [
+          "Date"
+        ],
+        "1.updatedAt": [
+          "Date"
+        ],
+        "2.createdAt": [
+          "Date"
+        ],
+        "2.updatedAt": [
+          "Date"
+        ],
+        "3.createdAt": [
+          "Date"
+        ],
+        "3.updatedAt": [
+          "Date"
+        ],
+        "4.createdAt": [
+          "Date"
+        ],
+        "4.updatedAt": [
+          "Date"
+        ],
+        "5.createdAt": [
+          "Date"
+        ],
+        "5.updatedAt": [
+          "Date"
+        ],
+        "6.createdAt": [
+          "Date"
+        ],
+        "6.updatedAt": [
+          "Date"
+        ],
+        "7.createdAt": [
+          "Date"
+        ],
+        "7.updatedAt": [
+          "Date"
+        ],
+        "8.createdAt": [
+          "Date"
+        ],
+        "8.updatedAt": [
+          "Date"
+        ],
+        "9.createdAt": [
+          "Date"
+        ],
+        "9.updatedAt": [
+          "Date"
+        ],
+        "10.createdAt": [
+          "Date"
+        ],
+        "10.updatedAt": [
+          "Date"
+        ]
+      }
+    }
+  },
+  "bookings": [],
+  "vehicles": [],
+  "drivers": [],
+  "expenses": [],
+  "payments": [],
+  "receivables": {
+    "json": [
+      {
+        "id": 1200016,
+        "clientId": 810001,
+        "bookingId": 1350016,
+        "bookingNumber": "BK-1770237021834-D8",
+        "amount": "47.50",
+        "remainingAmount": "47.50",
+        "status": "pending",
+        "dueDate": "2026-03-31T19:20:00.000Z",
+        "createdAt": "2026-02-04T20:30:28.000Z",
+        "notes": "ذمة من حجز: BK-1770237021834-D8"
+      },
+      {
+        "id": 1200015,
+        "clientId": 810001,
+        "bookingId": 1350015,
+        "bookingNumber": "BK-1770237021834-D7",
+        "amount": "47.50",
+        "remainingAmount": "47.50",
+        "status": "pending",
+        "dueDate": "2026-03-30T19:20:00.000Z",
+        "createdAt": "2026-02-04T20:30:27.000Z",
+        "notes": "ذمة من حجز: BK-1770237021834-D7"
+      },
+      {
+        "id": 1200014,
+        "clientId": 810001,
+        "bookingId": 1350014,
+        "bookingNumber": "BK-1770237021834-D6",
+        "amount": "47.50",
+        "remainingAmount": "47.50",
+        "status": "pending",
+        "dueDate": "2026-03-29T19:20:00.000Z",
+        "createdAt": "2026-02-04T20:30:26.000Z",
+        "notes": "ذمة من حجز: BK-1770237021834-D6"
+      },
+      {
+        "id": 1200013,
+        "clientId": 810001,
+        "bookingId": 1350013,
+        "bookingNumber": "BK-1770237021834-D5",
+        "amount": "47.50",
+        "remainingAmount": "47.50",
+        "status": "pending",
+        "dueDate": "2026-03-28T19:20:00.000Z",
+        "createdAt": "2026-02-04T20:30:26.000Z",
+        "notes": "ذمة من حجز: BK-1770237021834-D5"
+      },
+      {
+        "id": 1200012,
+        "clientId": 810001,
+        "bookingId": 1350012,
+        "bookingNumber": "BK-1770237021834-D4",
+        "amount": "47.50",
+        "remainingAmount": "47.50",
+        "status": "pending",
+        "dueDate": "2026-03-27T19:20:00.000Z",
+        "createdAt": "2026-02-04T20:30:25.000Z",
+        "notes": "ذمة من حجز: BK-1770237021834-D4"
+      },
+      {
+        "id": 1200011,
+        "clientId": 810001,
+        "bookingId": 1350011,
+        "bookingNumber": "BK-1770237021834-D3",
+        "amount": "47.50",
+        "remainingAmount": "47.50",
+        "status": "pending",
+        "dueDate": "2026-03-26T19:20:00.000Z",
+        "createdAt": "2026-02-04T20:30:24.000Z",
+        "notes": "ذمة من حجز: BK-1770237021834-D3"
+      },
+      {
+        "id": 1200010,
+        "clientId": 810001,
+        "bookingId": 1350010,
+        "bookingNumber": "BK-1770237021834-D2",
+        "amount": "47.50",
+        "remainingAmount": "47.50",
+        "status": "pending",
+        "dueDate": "2026-03-25T19:20:00.000Z",
+        "createdAt": "2026-02-04T20:30:23.000Z",
+        "notes": "ذمة من حجز: BK-1770237021834-D2"
+      },
+      {
+        "id": 1200009,
+        "clientId": 810001,
+        "bookingId": 1350009,
+        "bookingNumber": "BK-1770237021834-D1",
+        "amount": "47.50",
+        "remainingAmount": "47.50",
+        "status": "pending",
+        "dueDate": "2026-03-24T19:20:00.000Z",
+        "createdAt": "2026-02-04T20:30:22.000Z",
+        "notes": "ذمة من حجز: BK-1770237021834-D1"
+      },
+      {
+        "id": 1350001,
+        "clientId": 900001,
+        "bookingId": 1500001,
+        "bookingNumber": "BR-1360040749",
+        "amount": "33.25",
+        "remainingAmount": "33.25",
+        "status": "pending",
+        "dueDate": "2026-03-23T06:15:00.000Z",
+        "createdAt": "2026-02-06T12:06:29.000Z",
+        "notes": "ذمة من حجز: BR-1360040749"
+      },
+      {
+        "id": 1110006,
+        "clientId": 510001,
+        "bookingId": 1260007,
+        "bookingNumber": "78388606",
+        "amount": "35.62",
+        "remainingAmount": "35.62",
+        "status": "pending",
+        "dueDate": "2026-03-16T08:24:00.000Z",
+        "createdAt": "2026-02-03T21:01:02.000Z",
+        "notes": "ذمة من حجز: 78388606"
+      },
+      {
+        "id": 1980002,
+        "clientId": 510003,
+        "bookingId": 2040002,
+        "bookingNumber": "40915750",
+        "amount": "34.50",
+        "remainingAmount": "34.50",
+        "status": "pending",
+        "dueDate": "2026-02-27T06:00:00.000Z",
+        "createdAt": "2026-02-13T20:21:56.000Z",
+        "notes": "ذمة من حجز: 40915750"
+      },
+      {
+        "id": 1110005,
+        "clientId": 510001,
+        "bookingId": 1260006,
+        "bookingNumber": "78420504",
+        "amount": "24.34",
+        "remainingAmount": "24.34",
+        "status": "pending",
+        "dueDate": "2026-02-21T13:15:00.000Z",
+        "createdAt": "2026-02-03T20:51:07.000Z",
+        "notes": "ذمة من حجز: 78420504"
+      },
+      {
+        "id": 1410001,
+        "clientId": 510003,
+        "bookingId": 1560001,
+        "bookingNumber": "33036305",
+        "amount": "123.00",
+        "remainingAmount": "123.00",
+        "status": "pending",
+        "dueDate": "2026-02-19T06:10:00.000Z",
+        "createdAt": "2026-02-06T15:18:48.000Z",
+        "notes": "ذمة من حجز: 33036305"
+      },
+      {
+        "id": 2040001,
+        "clientId": 780001,
+        "bookingId": 2100001,
+        "bookingNumber": "BK-1771066840172",
+        "amount": "35.00",
+        "remainingAmount": "35.00",
+        "status": "pending",
+        "dueDate": "2026-02-15T12:30:00.000Z",
+        "createdAt": "2026-02-14T11:00:40.000Z",
+        "notes": "ذمة من حجز: BK-1771066840172"
+      },
+      {
+        "id": 2010001,
+        "clientId": 570001,
+        "bookingId": 2070001,
+        "bookingNumber": "BK-1771061272924",
+        "amount": "120.00",
+        "remainingAmount": "120.00",
+        "status": "pending",
+        "dueDate": "2026-02-15T01:00:00.000Z",
+        "createdAt": "2026-02-14T09:27:52.000Z",
+        "notes": "ذمة من حجز: BK-1771061272924"
+      },
+      {
+        "id": 1800003,
+        "clientId": 510001,
+        "bookingId": 1860003,
+        "bookingNumber": "78437809",
+        "amount": "41.00",
+        "remainingAmount": "41.00",
+        "status": "pending",
+        "dueDate": "2026-02-13T21:05:00.000Z",
+        "createdAt": "2026-02-10T18:30:23.000Z",
+        "notes": "ذمة من حجز: 78437809"
+      },
+      {
+        "id": 1980001,
+        "clientId": 930001,
+        "bookingId": 2040001,
+        "bookingNumber": "BK-1771009242485",
+        "amount": "120.00",
+        "remainingAmount": "75.00",
+        "status": "partial",
+        "dueDate": "2026-02-13T15:57:00.000Z",
+        "createdAt": "2026-02-13T19:00:42.000Z",
+        "notes": "ذمة من حجز: BK-1771009242485"
+      },
+      {
+        "id": 1110004,
+        "clientId": 510001,
+        "bookingId": 1260005,
+        "bookingNumber": "78428215",
+        "amount": "35.42",
+        "remainingAmount": "35.42",
+        "status": "pending",
+        "dueDate": "2026-02-13T11:00:00.000Z",
+        "createdAt": "2026-02-03T20:47:28.000Z",
+        "notes": "ذمة من حجز: 78428215"
+      },
+      {
+        "id": 1950001,
+        "clientId": 510001,
+        "bookingId": 2010001,
+        "bookingNumber": "78432542",
+        "amount": "33.00",
+        "remainingAmount": "33.00",
+        "status": "pending",
+        "dueDate": "2026-02-13T06:30:00.000Z",
+        "createdAt": "2026-02-13T08:27:36.000Z",
+        "notes": "ذمة من حجز: 78432542"
+      },
+      {
+        "id": 1920001,
+        "clientId": 930001,
+        "bookingId": 1980001,
+        "bookingNumber": "BK-1770916361219",
+        "amount": "30.00",
+        "remainingAmount": "30.00",
+        "status": "pending",
+        "dueDate": "2026-02-13T04:00:00.000Z",
+        "createdAt": "2026-02-12T17:12:41.000Z",
+        "notes": "ذمة من حجز: BK-1770916361219"
+      },
+      {
+        "id": 1110003,
+        "clientId": 510001,
+        "bookingId": 1260004,
+        "bookingNumber": "78379825",
+        "amount": "24.66",
+        "remainingAmount": "24.66",
+        "status": "pending",
+        "dueDate": "2026-02-12T09:00:00.000Z",
+        "createdAt": "2026-02-03T20:43:37.000Z",
+        "notes": "ذمة من حجز: 78379825"
+      },
+      {
+        "id": 1800002,
+        "clientId": 930001,
+        "bookingId": 1860002,
+        "bookingNumber": "BK-1770747878577-D1",
+        "amount": "120.00",
+        "remainingAmount": "120.00",
+        "status": "pending",
+        "dueDate": "2026-02-12T06:00:00.000Z",
+        "createdAt": "2026-02-10T18:24:38.000Z",
+        "notes": "ذمة من حجز: BK-1770747878577-D1"
+      },
+      {
+        "id": 1890001,
+        "clientId": 780001,
+        "bookingId": 1950001,
+        "bookingNumber": "BK-1770833587434",
+        "amount": "35.00",
+        "remainingAmount": "35.00",
+        "status": "pending",
+        "dueDate": "2026-02-11T23:00:00.000Z",
+        "createdAt": "2026-02-11T18:13:07.000Z",
+        "notes": "ذمة من حجز: BK-1770833587434"
+      },
+      {
+        "id": 1080005,
+        "clientId": 510001,
+        "bookingId": 1230005,
+        "bookingNumber": "78428214",
+        "amount": "35.89",
+        "remainingAmount": "35.89",
+        "status": "pending",
+        "dueDate": "2026-02-11T15:25:00.000Z",
+        "createdAt": "2026-02-03T07:09:15.000Z",
+        "notes": "ذمة من حجز: 78428214"
+      },
+      {
+        "id": 1800001,
+        "clientId": 510001,
+        "bookingId": 1860001,
+        "bookingNumber": "78437786",
+        "amount": "32.00",
+        "remainingAmount": "32.00",
+        "status": "pending",
+        "dueDate": "2026-02-11T03:00:00.000Z",
+        "createdAt": "2026-02-10T18:05:48.000Z",
+        "notes": "ذمة من حجز: 78437786"
+      },
+      {
+        "id": 1830001,
+        "clientId": 1080001,
+        "bookingId": 1890001,
+        "bookingNumber": null,
+        "amount": "50.00",
+        "remainingAmount": "50.00",
+        "status": "pending",
+        "dueDate": "2026-02-11T00:29:00.000Z",
+        "createdAt": "2026-02-11T00:30:34.000Z",
+        "notes": "ذمة من حجز: BK-1770769833888"
+      },
+      {
+        "id": 1380001,
+        "clientId": 510003,
+        "bookingId": 1530001,
+        "bookingNumber": "33988672",
+        "amount": "28.50",
+        "remainingAmount": "28.50",
+        "status": "pending",
+        "dueDate": "2026-02-09T15:05:00.000Z",
+        "createdAt": "2026-02-06T13:29:06.000Z",
+        "notes": "ذمة من حجز: 33988672"
+      },
+      {
+        "id": 1710002,
+        "clientId": 1050001,
+        "bookingId": 1830002,
+        "bookingNumber": "BK-1770672715197",
+        "amount": "100.00",
+        "remainingAmount": "100.00",
+        "status": "partial",
+        "dueDate": "2026-02-09T12:00:00.000Z",
+        "createdAt": "2026-02-09T21:31:55.000Z",
+        "notes": "ذمة من حجز: BK-1770672715197"
+      },
+      {
+        "id": 1560001,
+        "clientId": 510001,
+        "bookingId": 1710001,
+        "bookingNumber": "78435815",
+        "amount": "31.50",
+        "remainingAmount": "31.50",
+        "status": "pending",
+        "dueDate": "2026-02-09T10:55:00.000Z",
+        "createdAt": "2026-02-08T10:35:35.000Z",
+        "notes": "ذمة من حجز: BK-1770546935352"
+      },
+      {
+        "id": 1440001,
+        "clientId": 510001,
+        "bookingId": 1590001,
+        "bookingNumber": "78434662",
+        "amount": "42.00",
+        "remainingAmount": "42.00",
+        "status": "pending",
+        "dueDate": "2026-02-08T22:35:00.000Z",
+        "createdAt": "2026-02-06T19:49:21.000Z",
+        "notes": "ذمة من حجز: 78434662"
+      },
+      {
+        "id": 1470001,
+        "clientId": 510001,
+        "bookingId": 1620001,
+        "bookingNumber": "78434660",
+        "amount": "42.00",
+        "remainingAmount": "42.00",
+        "status": "pending",
+        "dueDate": "2026-02-08T22:25:00.000Z",
+        "createdAt": "2026-02-06T22:11:31.000Z",
+        "notes": "ذمة من حجز: 78434660"
+      },
+      {
+        "id": 1320001,
+        "clientId": 510001,
+        "bookingId": 1470001,
+        "bookingNumber": "78433946",
+        "amount": "26.15",
+        "remainingAmount": "26.15",
+        "status": "pending",
+        "dueDate": "2026-02-08T19:50:00.000Z",
+        "createdAt": "2026-02-06T01:46:18.000Z",
+        "notes": "ذمة من حجز: 78433946"
+      },
+      {
+        "id": 1500001,
+        "clientId": 930001,
+        "bookingId": 1650001,
+        "bookingNumber": "BK-1770456156099",
+        "amount": "30.00",
+        "remainingAmount": "30.00",
+        "status": "pending",
+        "dueDate": "2026-02-07T21:55:00.000Z",
+        "createdAt": "2026-02-07T09:22:36.000Z",
+        "notes": "ذمة من حجز: BK-1770456156099"
+      },
+      {
+        "id": 1110001,
+        "clientId": 510001,
+        "bookingId": 1260001,
+        "bookingNumber": "78431760",
+        "amount": "19.53",
+        "remainingAmount": "19.53",
+        "status": "pending",
+        "dueDate": "2026-02-07T03:45:00.000Z",
+        "createdAt": "2026-02-03T20:05:49.000Z",
+        "notes": "ذمة من حجز: 78431857"
+      },
+      {
+        "id": 1110002,
+        "clientId": 510001,
+        "bookingId": 1260003,
+        "bookingNumber": "78431857",
+        "amount": "43.17",
+        "remainingAmount": "43.17",
+        "status": "pending",
+        "dueDate": "2026-02-06T20:45:00.000Z",
+        "createdAt": "2026-02-03T20:24:34.000Z",
+        "notes": "ذمة من حجز: 78431857"
+      },
+      {
+        "id": 1140001,
+        "clientId": 510001,
+        "bookingId": 1290001,
+        "bookingNumber": "78432541",
+        "amount": "44.25",
+        "remainingAmount": "44.25",
+        "status": "pending",
+        "dueDate": "2026-02-05T21:00:00.000Z",
+        "createdAt": "2026-02-04T12:05:00.000Z",
+        "notes": "ذمة من حجز: 78432541"
+      },
+      {
+        "id": 1080003,
+        "clientId": 510001,
+        "bookingId": 1230003,
+        "bookingNumber": "78431537",
+        "amount": "38.21",
+        "remainingAmount": "38.21",
+        "status": "pending",
+        "dueDate": "2026-02-03T13:25:00.000Z",
+        "createdAt": "2026-02-03T06:59:47.000Z",
+        "notes": "ذمة من حجز: 78431537"
+      },
+      {
+        "id": 1110008,
+        "clientId": 780001,
+        "bookingId": 1260009,
+        "bookingNumber": "BK-1770153661269",
+        "amount": "35.00",
+        "remainingAmount": "35.00",
+        "status": "pending",
+        "dueDate": "2026-02-03T09:15:00.000Z",
+        "createdAt": "2026-02-03T21:21:01.000Z",
+        "notes": "ذمة من حجز: BK-1770153661269"
+      },
+      {
+        "id": 1110007,
+        "clientId": 780001,
+        "bookingId": 1260008,
+        "bookingNumber": "BK-1770152765087",
+        "amount": "35.00",
+        "remainingAmount": "35.00",
+        "status": "pending",
+        "dueDate": "2026-02-02T05:30:00.000Z",
+        "createdAt": "2026-02-03T21:06:05.000Z",
+        "notes": "ذمة من حجز: BK-1770152765087"
+      },
+      {
+        "id": 1080002,
+        "clientId": 510001,
+        "bookingId": 1230002,
+        "bookingNumber": "78428820",
+        "amount": "34.39",
+        "remainingAmount": "34.39",
+        "status": "pending",
+        "dueDate": "2026-02-01T14:45:00.000Z",
+        "createdAt": "2026-02-03T06:50:26.000Z",
+        "notes": "ذمة من حجز: 78428820"
+      },
+      {
+        "id": 1860001,
+        "clientId": 1050001,
+        "bookingId": 1920001,
+        "bookingNumber": "BK-1770802413727",
+        "amount": "90.00",
+        "remainingAmount": "90.00",
+        "status": "pending",
+        "dueDate": "2026-01-31T07:00:00.000Z",
+        "createdAt": "2026-02-11T09:33:33.000Z",
+        "notes": "ذمة من حجز: BK-1770802413727"
+      },
+      {
+        "id": 1770005,
+        "clientId": 930001,
+        "bookingId": 0,
+        "bookingNumber": null,
+        "amount": "30.00",
+        "remainingAmount": "30.00",
+        "status": "pending",
+        "dueDate": "2026-01-20T00:00:00.000Z",
+        "createdAt": "2026-02-10T07:43:56.000Z",
+        "notes": "رصيد سابق: رصيد سابق"
+      },
+      {
+        "id": 1770003,
+        "clientId": 780001,
+        "bookingId": 0,
+        "bookingNumber": null,
+        "amount": "125.00",
+        "remainingAmount": "125.00",
+        "status": "pending",
+        "dueDate": "2026-01-12T00:00:00.000Z",
+        "createdAt": "2026-02-10T07:38:26.000Z",
+        "notes": "رصيد سابق : رصيد سابق "
+      },
+      {
+        "id": 1770004,
+        "clientId": 1050001,
+        "bookingId": 0,
+        "bookingNumber": null,
+        "amount": "160.00",
+        "remainingAmount": "160.00",
+        "status": "pending",
+        "dueDate": "2025-12-31T00:00:00.000Z",
+        "createdAt": "2026-02-10T07:41:22.000Z",
+        "notes": "رصيد سابق: رصيد سابق"
+      }
+    ],
+    "meta": {
+      "values": {
+        "0.dueDate": [
+          "Date"
+        ],
+        "0.createdAt": [
+          "Date"
+        ],
+        "1.dueDate": [
+          "Date"
+        ],
+        "1.createdAt": [
+          "Date"
+        ],
+        "2.dueDate": [
+          "Date"
+        ],
+        "2.createdAt": [
+          "Date"
+        ],
+        "3.dueDate": [
+          "Date"
+        ],
+        "3.createdAt": [
+          "Date"
+        ],
+        "4.dueDate": [
+          "Date"
+        ],
+        "4.createdAt": [
+          "Date"
+        ],
+        "5.dueDate": [
+          "Date"
+        ],
+        "5.createdAt": [
+          "Date"
+        ],
+        "6.dueDate": [
+          "Date"
+        ],
+        "6.createdAt": [
+          "Date"
+        ],
+        "7.dueDate": [
+          "Date"
+        ],
+        "7.createdAt": [
+          "Date"
+        ],
+        "8.dueDate": [
+          "Date"
+        ],
+        "8.createdAt": [
+          "Date"
+        ],
+        "9.dueDate": [
+          "Date"
+        ],
+        "9.createdAt": [
+          "Date"
+        ],
+        "10.dueDate": [
+          "Date"
+        ],
+        "10.createdAt": [
+          "Date"
+        ],
+        "11.dueDate": [
+          "Date"
+        ],
+        "11.createdAt": [
+          "Date"
+        ],
+        "12.dueDate": [
+          "Date"
+        ],
+        "12.createdAt": [
+          "Date"
+        ],
+        "13.dueDate": [
+          "Date"
+        ],
+        "13.createdAt": [
+          "Date"
+        ],
+        "14.dueDate": [
+          "Date"
+        ],
+        "14.createdAt": [
+          "Date"
+        ],
+        "15.dueDate": [
+          "Date"
+        ],
+        "15.createdAt": [
+          "Date"
+        ],
+        "16.dueDate": [
+          "Date"
+        ],
+        "16.createdAt": [
+          "Date"
+        ],
+        "17.dueDate": [
+          "Date"
+        ],
+        "17.createdAt": [
+          "Date"
+        ],
+        "18.dueDate": [
+          "Date"
+        ],
+        "18.createdAt": [
+          "Date"
+        ],
+        "19.dueDate": [
+          "Date"
+        ],
+        "19.createdAt": [
+          "Date"
+        ],
+        "20.dueDate": [
+          "Date"
+        ],
+        "20.createdAt": [
+          "Date"
+        ],
+        "21.dueDate": [
+          "Date"
+        ],
+        "21.createdAt": [
+          "Date"
+        ],
+        "22.dueDate": [
+          "Date"
+        ],
+        "22.createdAt": [
+          "Date"
+        ],
+        "23.dueDate": [
+          "Date"
+        ],
+        "23.createdAt": [
+          "Date"
+        ],
+        "24.dueDate": [
+          "Date"
+        ],
+        "24.createdAt": [
+          "Date"
+        ],
+        "25.dueDate": [
+          "Date"
+        ],
+        "25.createdAt": [
+          "Date"
+        ],
+        "26.dueDate": [
+          "Date"
+        ],
+        "26.createdAt": [
+          "Date"
+        ],
+        "27.dueDate": [
+          "Date"
+        ],
+        "27.createdAt": [
+          "Date"
+        ],
+        "28.dueDate": [
+          "Date"
+        ],
+        "28.createdAt": [
+          "Date"
+        ],
+        "29.dueDate": [
+          "Date"
+        ],
+        "29.createdAt": [
+          "Date"
+        ],
+        "30.dueDate": [
+          "Date"
+        ],
+        "30.createdAt": [
+          "Date"
+        ],
+        "31.dueDate": [
+          "Date"
+        ],
+        "31.createdAt": [
+          "Date"
+        ],
+        "32.dueDate": [
+          "Date"
+        ],
+        "32.createdAt": [
+          "Date"
+        ],
+        "33.dueDate": [
+          "Date"
+        ],
+        "33.createdAt": [
+          "Date"
+        ],
+        "34.dueDate": [
+          "Date"
+        ],
+        "34.createdAt": [
+          "Date"
+        ],
+        "35.dueDate": [
+          "Date"
+        ],
+        "35.createdAt": [
+          "Date"
+        ],
+        "36.dueDate": [
+          "Date"
+        ],
+        "36.createdAt": [
+          "Date"
+        ],
+        "37.dueDate": [
+          "Date"
+        ],
+        "37.createdAt": [
+          "Date"
+        ],
+        "38.dueDate": [
+          "Date"
+        ],
+        "38.createdAt": [
+          "Date"
+        ],
+        "39.dueDate": [
+          "Date"
+        ],
+        "39.createdAt": [
+          "Date"
+        ],
+        "40.dueDate": [
+          "Date"
+        ],
+        "40.createdAt": [
+          "Date"
+        ],
+        "41.dueDate": [
+          "Date"
+        ],
+        "41.createdAt": [
+          "Date"
+        ],
+        "42.dueDate": [
+          "Date"
+        ],
+        "42.createdAt": [
+          "Date"
+        ],
+        "43.dueDate": [
+          "Date"
+        ],
+        "43.createdAt": [
+          "Date"
+        ]
+      }
+    }
+  },
+  "invoices": [],
+  "other_transactions": []
+}

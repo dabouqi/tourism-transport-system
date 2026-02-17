@@ -1,0 +1,77 @@
+
+  invoices: router({
+    getAll: protectedProcedure.query(() => db.getInvoices()),
+    
+    getById: protectedProcedure
+      .input(z.object({ id: z.number() }))
+      .query(({ input }) => db.getInvoiceById(input.id)),
+    
+    getByClientId: protectedProcedure
+      .input(z.object({ clientId: z.number() }))
+      .query(({ input }) => db.getInvoicesByClientId(input.clientId)),
+    
+    getByStatus: protectedProcedure
+      .input(z.object({ status: z.string() }))
+      .query(({ input }) => db.getInvoicesByStatus(input.status)),
+    
+    create: protectedProcedure
+      .input(z.object({
+        invoiceNumber: z.string(),
+        clientId: z.number(),
+        receivableId: z.number(),
+        bookingId: z.number(),
+        issueDate: z.date(),
+        dueDate: z.date().nullable(),
+        totalAmount: z.number(),
+        paidAmount: z.number(),
+        remainingAmount: z.number(),
+        status: z.enum(["draft", "sent", "viewed", "paid", "overdue", "cancelled"]),
+        paymentMethod: z.enum(["cash", "card", "transfer", "check", "other"]).nullable(),
+        notes: z.string().nullable(),
+      }))
+      .mutation(({ input }) => {
+        const data = {
+          ...input,
+          totalAmount: input.totalAmount.toString(),
+          paidAmount: input.paidAmount.toString(),
+          remainingAmount: input.remainingAmount.toString(),
+        };
+        return db.createInvoice(data as any);
+      }),
+    
+    update: protectedProcedure
+      .input(z.object({
+        id: z.number(),
+        data: z.object({
+          invoiceNumber: z.string().optional(),
+          clientId: z.number().optional(),
+          receivableId: z.number().optional(),
+          bookingId: z.number().optional(),
+          issueDate: z.date().optional(),
+          dueDate: z.date().nullable().optional(),
+          totalAmount: z.number().optional(),
+          paidAmount: z.number().optional(),
+          remainingAmount: z.number().optional(),
+          status: z.enum(["draft", "sent", "viewed", "paid", "overdue", "cancelled"]).optional(),
+          paymentMethod: z.enum(["cash", "card", "transfer", "check", "other"]).nullable().optional(),
+          notes: z.string().nullable().optional(),
+        }),
+      }))
+      .mutation(({ input }) => {
+        const updateData: any = { ...input.data };
+        if (input.data.totalAmount !== undefined) {
+          updateData.totalAmount = input.data.totalAmount.toString();
+        }
+        if (input.data.paidAmount !== undefined) {
+          updateData.paidAmount = input.data.paidAmount.toString();
+        }
+        if (input.data.remainingAmount !== undefined) {
+          updateData.remainingAmount = input.data.remainingAmount.toString();
+        }
+        return db.updateInvoice(input.id, updateData);
+      }),
+    
+    delete: protectedProcedure
+      .input(z.object({ id: z.number() }))
+      .mutation(({ input }) => db.deleteInvoice(input.id)),
+  }),
